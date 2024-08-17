@@ -363,7 +363,7 @@ Cyber Security Tools
 * [Interactive Disassembler (IDA Pro)](https://www.hex-rays.com/products/ida/) - Proprietary multi-processor disassembler and debugger for Windows, GNU/Linux, or macOS; also has a free version, [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml).
 * [WDK/WinDbg](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx) - Windows Driver Kit and WinDbg.
 * [OllyDbg](http://www.ollydbg.de/) - x86 debugger for Windows binaries that emphasizes binary code analysis.
-* [Radare2](http://rada.re/r/index.html) - Open source, crossplatform reverse engineering framework.
+* [Radare2](https://github.com/radare/radare2) - Portable, Open source, crossplatform reverse engineering framework.
 * [x64dbg](http://x64dbg.com/) - Open source x64/x32 debugger for windows.
 * [Immunity Debugger](http://debugger.immunityinc.com/) - Powerful way to write exploits and analyze malware.
 * [Evan's Debugger](http://www.codef00.com/projects#debugger) - OllyDbg-like debugger for GNU/Linux.
@@ -455,7 +455,6 @@ Cyber Security Tools
 * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
 * [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code.
 * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables.
-* [radare2](https://github.com/radare/radare2) - A portable reversing framework.
 * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
 * [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
 
